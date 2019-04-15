@@ -1,11 +1,11 @@
-Zamfir Ovidiu - Ionut 325 CD
-
-
-                    README Tema 3 OOP
 
 
 
-            Tema 3 a fost gandita in felul urmator:
+                    README Hospital-Urgency-Pipeline
+
+
+
+            Proiectul a fost gandit in felul urmator:
 
          --> Parsarea a fost facuta manual cu JsonNode tot din Jackson
                 --> Se parsa o singura data tot arborele, apoi se accesa fiecare camp din fisierul json
